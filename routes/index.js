@@ -8,6 +8,3 @@ router.get('/', function(req, res, next) {
 
 module.exports = router;
 
-
-h1 = 하이루
-p = 하이하이
